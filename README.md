@@ -1,2 +1,2 @@
-# 100DaysOfPython
-Python自主學習
+# 100-Days-Of-Python
+This is for the course on Udemy.
